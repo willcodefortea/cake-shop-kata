@@ -6,9 +6,7 @@ Sandro and Marco want to start selling cakes online and need you to write code t
 
 # The kata
 
-The requirements for the kata are in `requirements.md` and have worked examples in `examples.md` (hint: these might make good test cases).
-
-Often in software, the requirements we're asked to implement seem simple, but the interaction between them makes the code complicated. Try working through the requirements in order, refactoring your code as you go to try and keep the solution simple and easy to understand.
+The requirements for the kata are in `requirements_X.md`, and complexity is layered with each new file. Often in software, the requirements we're asked to implement seem simple, but the interaction between them makes the code complicated. Try working through the requirements in order, refactoring your code as you go to try and keep the solution simple and easy to understand.
 
 There are starting points provided for Typescript and Python.
 
