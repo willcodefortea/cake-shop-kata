@@ -3,6 +3,7 @@
 - The "lead time" is the number of days that it takes to make a cake.
 - Cakes are always delivered on the day they're finished. Nobody likes stale cake.
 - Small cakes have a lead time of 2 days.
+- Big cakes have a lead time of 3 days.
 
 ## Examples
 
@@ -13,3 +14,7 @@ The delivery date for a cake is the order date plus the lead time.
 Small cakes have a lead time of 2 days.
 
 - An order for a small cake on a Monday has a delivery date of Wednesday
+
+Big cakes have a lead time of 3 days.
+
+- An order for a big cake, placed on Monday, has a delivery date of Thursday.

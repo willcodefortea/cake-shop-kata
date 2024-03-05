@@ -1,7 +1,8 @@
 ## Requirements
 
-- Custom frosting adds 2 days extra lead time. You can only frost a baked cake.
+- Marco does the baking, Sandro does the frosting.
 - Marco works from Monday-Friday, and Sandro works from Tuesday-Saturday.
+- You can only frost a baked cake (you may not frost and bake simultaneously)
 
 ## Examples
 
