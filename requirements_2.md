@@ -6,6 +6,7 @@
 ## Examples
 
 If a cake order is received in the morning (ie, before 12pm) then baking starts on the same day.
+Cakes not ordered before 12pm are started the following day.
 
 - An order for a small cake, placed on Monday morning, has a delivery date of Tuesday
 
