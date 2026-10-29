@@ -1,6 +1,21 @@
-[build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.build_meta"
+[project]
+name = "cake-shop-kata"
+version = "1.0.0"
+description = "A TDD Kata for Domain Modelling"
+license = "CC0-1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = [
+  "pytest",
+  "isort",
+  "black",
+  "pylint",
+]
+
+[tool.uv]
+package = false
 
 [tool.pytest.ini_options]
 pythonpath = [
